@@ -1,2 +1,2 @@
 # Movie-Ticketing-System
-OOP
+Programmed in C# using Object-Oriented Programming (OOP)
