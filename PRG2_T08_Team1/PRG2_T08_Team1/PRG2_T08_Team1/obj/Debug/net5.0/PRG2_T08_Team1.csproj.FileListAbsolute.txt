@@ -1,0 +1,38 @@
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.exe
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.deps.json
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.runtimeconfig.json
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.runtimeconfig.dev.json
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.dll
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\ref\PRG2_T08_Team1.dll
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.pdb
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.csproj.AssemblyReference.cache
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.AssemblyInfoInputs.cache
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.AssemblyInfo.cs
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.csproj.CoreCompileInputs.cache
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.dll
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\ref\PRG2_T08_Team1.dll
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.pdb
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.genruntimeconfig.cache
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.csproj.AssemblyReference.cache
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.AssemblyInfoInputs.cache
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.AssemblyInfo.cs
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.csproj.CoreCompileInputs.cache
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.dll
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\ref\PRG2_T08_Team1.dll
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.pdb
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.exe
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\csv\Cinema.csv
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\csv\Movie.csv
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\csv\Screening.csv
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.deps.json
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.runtimeconfig.json
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.runtimeconfig.dev.json
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.dll
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\ref\PRG2_T08_Team1.dll
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\PRG2_T08_Team1.pdb
+C:\Users\lefic\Source\Repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\obj\Debug\net5.0\PRG2_T08_Team1.genruntimeconfig.cache
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\csv\Cinema.csv
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\csv\Movie.csv
+C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\bin\Debug\net5.0\csv\Screening.csv

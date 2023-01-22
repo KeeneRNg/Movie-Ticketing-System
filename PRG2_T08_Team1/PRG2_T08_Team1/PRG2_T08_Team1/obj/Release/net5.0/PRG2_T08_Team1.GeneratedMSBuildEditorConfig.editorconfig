@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = PRG2_T08_Team1
+build_property.ProjectDir = C:\Users\Keene Ng\Keene\School\Yr 1.2\Programming 2\Assignment\PRG2_T08_Team1\PRG2_T08_Team1\PRG2_T08_Team1\
+build_property.ProjectDir = C:\Users\lefic\source\repos\prg2_t08_team1\PRG2_T08_Team1\PRG2_T08_Team1\

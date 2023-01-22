@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PRG2_T08_Team1/1.0.0": {
+        "runtime": {
+          "PRG2_T08_Team1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRG2_T08_Team1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
